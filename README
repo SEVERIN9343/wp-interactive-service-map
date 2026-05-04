@@ -1,23 +1,16 @@
 # WP Interactive Service Map
 
-Plugin WordPress affichant une carte interactive des zones d’intervention avec SVG, géolocalisation, calcul de distances et liens Google Maps.
+## 🎯 Problème
+Les entreprises qui interviennent sur plusieurs zones géographiques ont souvent du mal à présenter clairement leurs zones de couverture, leurs agences ou leurs services locaux sur leur site.
 
-## Objectif
+## 💡 Solution
+WP Interactive Service Map permet d’afficher une carte SVG interactive avec villes cliquables, calcul de distance, géolocalisation utilisateur et informations par zone.
 
-Ce plugin permet d’afficher une carte interactive sur un site WordPress afin de présenter les zones d’intervention d’une entreprise.
-
-Il a été conçu pour améliorer l’expérience utilisateur en permettant aux visiteurs de visualiser les villes couvertes, la distance depuis l’agence et, si autorisé, la distance depuis leur propre position.
-
-## Fonctionnalités
-
-- Carte SVG interactive
-- Villes cliquables et survolables
-- Panneau d’informations dynamique
-- Calcul de distance entre l’agence et chaque ville
-- Géolocalisation utilisateur via l’API native du navigateur
-- Liens directs vers Google Maps
-- Navigation clavier sur les points de la carte
-- Intégration via shortcode WordPress
+## 🚀 Bénéfices
+- Clarifie les zones d’intervention d’une entreprise
+- Améliore l’expérience utilisateur locale
+- Facilite la prise de contact selon la localisation
+- Valorise les agences ou services disponibles par zone
 
 ## Shortcode
 
