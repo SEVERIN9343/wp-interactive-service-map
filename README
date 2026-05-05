@@ -64,14 +64,35 @@ Le plugin utilise une carte SVG interactive combinée à JavaScript pour gérer 
 
 ```text
 [interactive_service_map]
+```
 
+---
 
-📦 Installation
-Copier le dossier du plugin dans :
+## 📦 Installation
+
+1. Copier le dossier du plugin dans :
+
+```bash
 wp-content/plugins/wp-interactive-service-map/
+```
 
+2. Activer le plugin depuis l’administration WordPress :
+
+```text
 Extensions > Activer
+```
 
+3. Ajouter le shortcode dans une page ou un article :
+
+```text
+[interactive_service_map]
+```
+
+---
+
+## 🗂️ Structure du plugin
+
+```text
 wp-interactive-service-map/
 ├── wp-interactive-service-map.php
 ├── README.md
@@ -80,7 +101,10 @@ wp-interactive-service-map/
     │   └── service-map.css
     └── js/
         └── service-map.js
+```
 
- 👤 Auteur
+---
+
+## 👤 Auteur
 
 Sévérin OGAH
